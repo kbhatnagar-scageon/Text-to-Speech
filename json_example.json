@@ -1,0 +1,18 @@
+{
+  "requests": [
+    {
+      "text": "Hello! This is a test.",
+      "voice": "en-US-GuyNeural",
+      "rate": "+0%",
+      "volume": "+0%",
+      "translate_to_hindi": false,
+      "output_file": "english_output.mp3"
+    },
+    {
+      "text": "This text will be translated to Hindi.",
+      "voice": "hi-IN-MadhurNeural",
+      "translate_to_hindi": true,
+      "output_file": "hindi_output.mp3"
+    }
+  ]
+}
