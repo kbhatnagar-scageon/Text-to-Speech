@@ -168,10 +168,6 @@ Common voice options include:
 
 By default, output files are saved to a `tts_output` directory in the same location as the script. This directory is created automatically if it doesn't exist.
 
-## License
-
-[MIT License](LICENSE)
-
 ## Acknowledgments
 
 - This project uses [Microsoft Edge TTS](https://github.com/rany2/edge-tts) for speech synthesis
